@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/reverse-a-string/precache-manifest.4617e74ee72edaad62ea8c7eb08c6eca.js"
+  "/reverse-a-string/precache-manifest.2bfab72d2883c48aede6ea34275fff1a.js"
 );
 
 self.addEventListener('message', (event) => {
